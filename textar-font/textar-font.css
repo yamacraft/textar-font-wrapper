@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Textar';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MS PGothic'),local('Textar'),local('IPAMonaPGothic'),local('Mona'),
+    url('/textar-font/fonts/textar-min.woff') format('woff'),
+    url('/textar-font/fonts/textar-min.ttf') format('truetype'),
+    url('/textar-font/fonts/textar-min.svg') format('svg');
+}
+
