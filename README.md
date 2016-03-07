@@ -19,6 +19,6 @@
 
 - こちらで配信しているフォントは [IPA Font License Agreement v1.0](http://ipafont.ipa.go.jp/#LicenseJP) でライセンスされています。
 
-- [https://github.com/yamacraft/textar-font] にて配信しているtextar-fontに関しては、元製作者様ではなく twitter:[@ariki2002](https://twitter.com/ariki2002)にご連絡ください。
+- [https://github.com/yamacraft/textar-font](https://github.com/yamacraft/textar-font) にて配信しているtextar-fontに関しては、元製作者様ではなく twitter:[@ariki2002](https://twitter.com/ariki2002)にご連絡ください。
 - フォント保護を再優先に行った独断行動によるものなので、元製作者様からの要望で公開を停止する可能性があります。ご了承ください。
 
