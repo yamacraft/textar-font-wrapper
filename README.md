@@ -2,6 +2,8 @@
 
 [http://font.textar.tv/](http://font.textar.tv/) にて配布されていた、アスキーアート表示用のフォント＋CSS＋javascriptセットです。
 
+Sample: [Textar Font(temporary)](https://yamacraft.github.io/textar-font/)
+
 ## 使い方
 
 はじめに. textar-fontフォルダをサーバにアップロードする
